@@ -80,7 +80,7 @@ def criar_grafico_nps(nps):
        plt.title('Gráfico de NPS da iFood Dev Week')
 
   # Mostra o gráfico.
-plt.show()
+#plt.show()
 
 #criar_grafico_nps(nps)
 
